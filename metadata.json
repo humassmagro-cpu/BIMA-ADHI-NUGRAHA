@@ -1,0 +1,6 @@
+{
+  "name": "Pencatatan Aset Sekolah",
+  "description": "Aplikasi pencatatan inventaris dan aset SMA Negeri 1 Grogol Kabupaten Kediri dengan cetak barcode/QR label aset dan panduan peminjaman Tata Usaha Bagian Aset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
